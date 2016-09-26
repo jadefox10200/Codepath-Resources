@@ -1,0 +1,5 @@
+
+
+25 Sep 2016 (Day 1):
+1. Watched week 7 lecture from cs50: https://www.youtube.com/watch?v=GUtPQIDSwrA&feature=youtu.be
+2. Watched videos 27-30 from Go summer bootcamp: https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S
