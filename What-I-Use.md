@@ -10,7 +10,8 @@ https://atom.io/
 
 3. Github:<br>
 https://github.com<br>
-https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/
+https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/<br>
+https://desktop.github.com/
 
 ##Resources:
 1.Generic:<br>
