@@ -14,15 +14,16 @@ https://help.github.com/articles/getting-started-with-writing-and-formatting-on-
 https://desktop.github.com/
 
 ##Resources:
-1.Generic:<br>
+
+1. Generic:<br>
 http://stackoverflow.com/
 
-2. CSS:
+2. CSS:<br>
 https://css-tricks.com/
 
 ##Challenge Yourself:
 
-1.Hackerrank:<br>
+1. Hackerrank:<br>
 https://www.hackerrank.com
 
 2. Codewars: <br>
