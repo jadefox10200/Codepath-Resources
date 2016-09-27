@@ -9,3 +9,6 @@ for the first time I use that resource.
 26 Sep 2016 (Day 2):
 1. 46 Challenges completed on Free Code Camp.
 2. Videos 30-35 completed on GO Summer bootcamp.
+3. Watched lecture week 7 continued from CS50. 
+4. 1 Hackerrank challenge.
+5. Refactored hash function for pset5 from CS50. 
