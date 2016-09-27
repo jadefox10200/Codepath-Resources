@@ -45,11 +45,6 @@ https://www.freecodecamp.com
 2. MySQL Tutorial<br>
 http://www.mysqltutorial.org/
 
-###Udemy:
-
-1. Learn How To Code: Google's Go (golang) Programming Language; Instructor: Todd Mcleod:<br>
-https://www.udemy.com/learn-how-to-code/learn/v4/overview
-
 ##Paid Resources:
 
 ###Books:
@@ -62,3 +57,8 @@ Author: Jon Duckett; ISBN: 978-1-118-53164-8
 
 3. JUMPING INTO C++:<br>
 Author: Alex Allain; ISBN: 9780988927803
+
+###Udemy:
+
+1. Learn How To Code: Google's Go (golang) Programming Language; Instructor: Todd Mcleod:<br>
+https://www.udemy.com/learn-how-to-code/learn/v4/overview
