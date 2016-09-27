@@ -37,6 +37,13 @@ https://www.golang-book.com/books/intro
 2. How to Design Programs, Second Edition:<br>
 http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html
 
+3. Structure and Interpretation of Computer Programs Second Edition:<br>
+Authors: Harold Abelson, Gerald Jay Sussman, Julie Sussman<br>
+https://mitpress.mit.edu/sicp/full-text/book/book.html
+
+4. Interactive Data Visualization for the Web (d3.js)<br>
+http://chimera.labs.oreilly.com/books/1230000000345/ch01.html
+
 ###Individual Sites:
 
 1. Free Code Camp:<br>
@@ -44,6 +51,12 @@ https://www.freecodecamp.com
 
 2. MySQL Tutorial<br>
 http://www.mysqltutorial.org/
+
+3. ArsDigita Computer Science University<br>
+https://archive.org/details/arsdigita
+
+4. Vertabelo (SQL)<br>
+https://academy.vertabelo.com/course/sql-queries#
 
 ##Paid Resources:
 
