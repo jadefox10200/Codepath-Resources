@@ -11,4 +11,10 @@ for the first time I use that resource.
 2. Videos 30-35 completed on GO Summer bootcamp.
 3. Watched lecture week 7 continued from CS50. 
 4. 1 Hackerrank challenge.
-5. Refactored hash function for pset5 from CS50. 
+5. Refactored hash function for pset5 from CS50 & completed pset5. 
+
+27 Sep 2016 (Day 3)
+1. 20 Challenges completed on Free Code Camp.
+2. Videos 36,37,38 completed on GO Summer bootcamp.
+3. 1 Hackerrank challenge.
+
