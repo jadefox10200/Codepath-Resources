@@ -17,4 +17,10 @@ for the first time I use that resource.
 1. 20 Challenges completed on Free Code Camp.
 2. Videos 36,37,38 completed on GO Summer bootcamp.
 3. 1 Hackerrank challenge.
+4. Completed portfolio page for FCC on github pages
 
+28 Sep 2016 (Day 4)
+1. 9 Challenges on FCC. 
+2. 1 Hackerrank challenge.
+3. 1/2 pset6 study and videos of CS50. 
+4. Studied UTF-8 history.
