@@ -44,6 +44,9 @@ https://mitpress.mit.edu/sicp/full-text/book/book.html
 4. Interactive Data Visualization for the Web (d3.js)<br>
 http://chimera.labs.oreilly.com/books/1230000000345/ch01.html
 
+5. JQuery Trickshots:<br>
+http://tutorialzine.com/books/jquery-trickshots/
+
 ###Individual Sites:
 
 1. Free Code Camp:<br>
