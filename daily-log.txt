@@ -24,3 +24,8 @@ for the first time I use that resource.
 2. 1 Hackerrank challenge.
 3. 1/2 pset6 study and videos of CS50. 
 4. Studied UTF-8 history.
+
+29 Sep 2016 (Day 5)
+1. 5 Challenges on FCC
+2. 3 Hackerrank challenges. 
+3. Further study on CSS grid and layouts. 
