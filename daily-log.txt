@@ -29,3 +29,9 @@ for the first time I use that resource.
 1. 5 Challenges on FCC
 2. 3 Hackerrank challenges. 
 3. Further study on CSS grid and layouts. 
+
+30 Sept 2016 (Day 6)
+1. GO Summer bootcamp videos 41-45. 
+2. 2 Hackerrank challenges.
+3. Study of Angular. 
+4. Started new front-end web app project. 
