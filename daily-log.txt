@@ -35,3 +35,7 @@ for the first time I use that resource.
 2. 2 Hackerrank challenges.
 3. Study of Angular. 
 4. Started new front-end web app project. 
+
+1 Oct 2016 (Day 7)
+1. Worked on pset6 from CS50. 
+
