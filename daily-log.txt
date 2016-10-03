@@ -39,3 +39,10 @@ for the first time I use that resource.
 1 Oct 2016 (Day 7)
 1. Worked on pset6 from CS50. 
 
+2 Oct 2016 (Day 8)
+1. Completed half of pset6 from CS50. 
+2. Started project to build CSV data import which will convert this into a table. Once in a table, draw input 
+fields that will be bound to the <td> tags of the row selected so updating happens in real-time. 
+3. 1 hackerrank challenge. 
+4. GO Summer boocamp videos 46-48.
+
