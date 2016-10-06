@@ -13,6 +13,11 @@ https://github.com<br>
 https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/<br>
 https://desktop.github.com/
 
+##Libraries: 
+
+1. Semantic-UI for CSS<br>
+http://semantic-ui.com/
+
 ##Resources:
 
 1. Generic:<br>
