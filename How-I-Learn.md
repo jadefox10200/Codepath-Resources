@@ -47,6 +47,10 @@ http://chimera.labs.oreilly.com/books/1230000000345/ch01.html
 5. JQuery Trickshots:<br>
 http://tutorialzine.com/books/jquery-trickshots/
 
+6. The C Programming Language<br>
+Authors: Brian W Kernighan & Dennis M Ritchie<br>
+http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf
+
 ###Individual Sites:
 
 1. Free Code Camp:<br>
