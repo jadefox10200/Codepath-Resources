@@ -9,8 +9,11 @@ Nathan's blog posts with Go:<br>
 https://nathanleclaire.com/post/
 
 ##C/C++<br>
-Forum thread with an extensive list of C/C++ Tutorials
+Forum thread with an extensive list of C/C++ Tutorials<br>
 http://www.linuxquestions.org/questions/programming-9/c-c-tutorials-825748/
+
+How fread() actually works:<br>
+http://stackoverflow.com/questions/8589425/how-does-fread-really-work
 
 ##Generic<br>
 Character encoding:<br>
