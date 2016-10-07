@@ -56,5 +56,11 @@ fields that will be bound to the <td> tags of the row selected so updating happe
 
 5 Oct 2016 (Day 10)
 1. Finished pset6!!!
-2. Completed 2 chapter is C++ book (Jumping into C++). 
+2. Completed 2 chapter in C++ book (Jumping into C++). 
 Note: See repo for C++ book progress and review. 
+
+6 Oct 2016 (Day 11)
+1. Completed chapter 3 in C++ book. 
+2. Watched Lecture 8 & Lecture 8 Continued from CS50. 
+3. 5 Hackerrank challenges. 
+4. Angular 1 study on-line. 
