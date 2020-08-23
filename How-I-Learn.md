@@ -78,6 +78,9 @@ Author: Jon Duckett; ISBN: 978-1-118-53164-8
 3. JUMPING INTO C++:<br>
 Author: Alex Allain; ISBN: 9780988927803
 
+4. UNDERSTANDING CRYPTOGRAPHY
+Author: Christof Paar; ISBN: 9783642041006
+
 ###Udemy:
 
 1. Learn How To Code: Google's Go (golang) Programming Language; Instructor: Todd Mcleod:<br>
